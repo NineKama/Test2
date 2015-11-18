@@ -1,1 +1,2 @@
 C:\Users\Diep\Documents\Test\Test2\ProjectPTUDGD\ProjectPTUDGD\bin\Debug\ProjectPTUDGD.exe.config
+D:\DATA\Documents\DevelopingApp 15-16\Test2\ProjectPTUDGD\ProjectPTUDGD\bin\Debug\ProjectPTUDGD.exe.config
