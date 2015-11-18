@@ -8,5 +8,6 @@ namespace ProjectPTUDGD
 {
     class Bill
     {
+        public string ID { get; set; }
     }
 }
